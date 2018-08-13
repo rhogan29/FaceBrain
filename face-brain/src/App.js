@@ -6,6 +6,7 @@ import Rank from './components/Rank/Rank';
 import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import Particles from 'react-particles-js';
 
+// Options for the particle effects. 
 const particlesOptions = {
   particles: {
     number: {
